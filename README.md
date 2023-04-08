@@ -2,7 +2,7 @@
             
 <table><tr><td valign="top" width="60%">
 
- <br><br>**<div align="start">I’m interested in exploring new technologies related to software development. </div>**  
+ **<div align="start">I’m interested in exploring new technologies related to software development. </div>**  
   
 
  **<div align="start">Currently, I'm focusing on improving my skills in mobile development using Flutter. </div>**  
@@ -11,7 +11,7 @@
 </td><td valign="top" width="40%">
 
 <div align="center">
-<img src="https://i.seadn.io/gae/5Un5dLnzN0nbhvQEIkDMUlwjEwCszhdedue8dIFFFR2uIVhhhTxYNFFzshUMGgZbsTIWRGSW-y068dkjwk1jeoFCN2AblD0mQSY39A?auto=format&w=1920" align="center" style="width: 70%" />
+<img src="https://media3.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" align="center" style="width: 70%" />
 </div>  
 
 
@@ -21,7 +21,8 @@
 
 ---
 
-### Languages and Tools : 
+### Languages and Tools : <br>
+
 
 <div align="center">
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>   
