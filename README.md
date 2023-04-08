@@ -49,10 +49,10 @@
 # <h3>GitHub Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  _ 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=false)<br>
-
-![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)  _ 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
 
 ## <h3>GitHub Trophies</h3>
 ![](https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
