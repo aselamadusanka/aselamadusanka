@@ -40,11 +40,12 @@
 
 # <h3>GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) _
-![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) _ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)_
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true) _ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)
+
 <br>
 
 ## <h3>GitHub Trophies</h3>
@@ -61,4 +62,4 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
