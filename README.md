@@ -36,6 +36,19 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br>
 
+
+
+# <h3>GitHub Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+## <h3>GitHub Trophies</h3>
+![](https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+
 <h3 align="left">Connect with me:</h3><br>
 
 <p align="left">   
@@ -45,17 +58,6 @@
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__asela_" height="30" width="40" /></a>   
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="30" width="40" /></a>  
 </p>
-
-# <h3>GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  _ 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br>
-
-## <h3>GitHub Trophies</h3>
-![](https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=2&color=12)](https://visitcount.itsvg.in)
