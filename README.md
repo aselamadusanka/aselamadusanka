@@ -70,6 +70,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   </td></tr>
+</table>  <br>
+
+<table>
+  <td valign="top" width="100%">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)<br/>
+
+  </td>
 </table>  
 
 
