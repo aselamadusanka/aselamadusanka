@@ -61,32 +61,41 @@
 
 ### Github Stats :<br><br>
 <table>
-  <tr><td valign="top" width="60%">
+  <tr><td valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) 
 
-</td><td valign="top" width="40%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-  </td></tr>
-</table>  <br>
-
-<table>
-  <td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)<br/>
 
-  </td>
+  </td></tr>
 </table>  
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 ---
 
-<h3 align="start">Top Contributed Repository :</h3>
+<h3 align="start">Top Contributed Repository :</h3><br>
+
+<table>
+  <tr><td valign="top" width="50%">
 
 ![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</td><td valign="top" width="50%">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+  </td></tr>
+</table> 
+
 
 ---
 
@@ -110,3 +119,8 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+
+
