@@ -1,32 +1,29 @@
                                                          Hi, 👋  I’m Asela Madusanka. 
             
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="60%"><br>
 
- **<div align="start">I’m interested in exploring new technologies related to software development. </div>**  
   
+	I’m interested in exploring new technologies related to software development.
+  
+	Currently, I'm focusing on improving my skills in mobile development using Flutter.
+	
 
- **<div align="start">Currently, I'm focusing on improving my skills in mobile development using Flutter. </div>**  
-
-
-</td><td valign="top" width="40%">
+  </td><td valign="top" width="40%">
 
 <div align="center">
 <img src="https://media3.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" align="center" style="width: 70%" />
 </div>  
-
-
 </td></tr></table>  
-
-<br/>  
+  
 
 ---
 
-### Languages and Tools : <br>
+### Languages and Tools : <br><br>
 
 
 <div align="center">
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>   
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>   
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>   
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>   
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>   
@@ -62,16 +59,18 @@
 
 ---
 
-### Github Stats :
-<table><tr><td>
+### Github Stats :<br><br>
+<table>
+  <tr><td valign="top" width="60%">
 
 ![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) 
 
-</td><td>
+</td><td valign="top" width="40%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</td></tr></table>  
+  </td></tr>
+</table>  
 
 
 
@@ -100,5 +99,6 @@
 </p>
 
 ---
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
