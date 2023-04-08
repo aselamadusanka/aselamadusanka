@@ -3,8 +3,8 @@
             👀  I’m interested in exploring new technologies related to software development. 
             🌱  Currently, I'm focusing on improving my skills in mobile development using Flutter. 
 
-
-<h3 align="left">Languages and Tools:</h3>
+---
+<h3 align="left">Languages and Tools :</h3>
 <p align="center"> <br>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -36,21 +36,28 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br>
 
+---
 
+<h3 align="left">GitHub Stats :</h3>
 
-# <h3>GitHub Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) _ 
+![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
 
-![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true) _ 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)<br>
 
-<br>
+---
 
-## <h3>GitHub Trophies</h3>
+<h3 align="left">Top Contributed Repository :</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+<h3 align="left">GitHub Trophies :</h3><br>
+
 ![](https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
+---
 <h3 align="left">Connect with me:</h3><br>
 
 <p align="left">   
@@ -62,4 +69,5 @@
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
