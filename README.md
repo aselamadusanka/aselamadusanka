@@ -112,15 +112,13 @@
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__asela_" height="30" width="40" /></a>      
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asela1madusanka" height="30" width="40" /></a>   
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__asela_" height="30" width="40" /></a>   
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="30" width="40" /></a>  
+<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="30" width="40" /></a>  
 </p>
 
 ---
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 
 
