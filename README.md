@@ -11,7 +11,7 @@
   </td><td valign="top" width="40%">
 
 <div align="center">
-<img src="https://media3.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" align="center" style="width: 70%" />
+<img src="https://bestanimations.com/Fantasy/Dragons/dragon-animated-gif-73.gif" style="width: 70%" />
 </div>  
 </td></tr></table>  
   
