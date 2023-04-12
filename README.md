@@ -21,8 +21,8 @@
 ---
 
 
-<h5> Reach me via Linkedin: <a href="https://www.linkedin.com/in/aselamadusanka/"> LinkedIn </a> </h5> 
-<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions </a>. My company GitHub account is <a href="https://github.com/asela-softmint"> asela-softmint </a> </h5>
+<h5> Reach me via Linkedin  :  <a href="https://www.linkedin.com/in/aselamadusanka/"> LinkedIn </a> </h5> 
+<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions </a>.  My company GitHub account is  : <a href="https://github.com/asela-softmint"> asela-softmint </a> </h5>
 
 ---
 
