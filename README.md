@@ -18,16 +18,22 @@
 </div>  
 </td></tr></table>  
 
----
 
 
-<h5> Reach me via Linkedin  :  <a href="https://www.linkedin.com/in/aselamadusanka/"> LinkedIn </a> </h5> 
-<!-- <a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a> -->
-<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40" align="right" /></a>
+<table>
+	<tr>
+		<td valign="top" width="72%"><div align="start">
+<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions</a> & My company GitHub</h5></dev>
+		</td>
+		<td valign="top" width="20%"><div align="center">
+<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a></dev>
+		</td>
+		<td valign="top" width="8%"><div align="center">
+<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40" align="right" /></a></div>  
+		</td>
+	</tr>
+</table> 
 
-<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions </a> My company GitHub is : <a href="https://github.com/asela-softmint"> asela-softmint </a></h5>
-
----
 
 ### Languages and Tools : <br><br>
 
