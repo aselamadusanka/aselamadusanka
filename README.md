@@ -19,8 +19,8 @@
 </td>
 </table>
 
-- I'm currently working as an intern software engineer at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my working &nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
-- Reach me via Linkedin :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
+- I'm currently working as an <strong>Intern Software Engineer</strong> at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my working &nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
+- Reach me via Linkedin :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
 ---
