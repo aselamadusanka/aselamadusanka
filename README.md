@@ -22,10 +22,10 @@
 
 
 <h5> Reach me via Linkedin  :  <a href="https://www.linkedin.com/in/aselamadusanka/"> LinkedIn </a> </h5> 
-<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a>
-<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="Softmint Software Solutions" height="40" align="right" /></a>
+<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a><br>
+<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40" align="right" /></a>
 
-<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions </a> My company GitHub is :</h5>
+<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions </a> My company GitHub is : <a href="https://github.com/asela-softmint"> asela-softmint </a></h5>
 
 ---
 
