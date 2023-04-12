@@ -2,13 +2,13 @@
             
 <table style="line-height: 0;"><tr><td valign="center" width="60%">
 
-  
-	I’m interested in exploring new technologies related to software development.
+  ```yaml
+	- I’m interested in exploring new technologies related to software development.
 	
-	A Third-year Student of NDT In the Information Technology University of Moratuwa.
+	- A Third-year Student of NDT In the Information Technology University of Moratuwa.
   
-	Currently, I'm focusing on improving my skills in mobile development using Flutter.
-
+	- Currently, I'm focusing on improving my skills in mobile development using Flutter.
+```
 	
 
   </td>
@@ -17,26 +17,11 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 70%; display: block; margin: 0 auto;">
   </div>  
 </td>
-
-
-
-
-<table style="margin: 0 auto; width: 100%; line-height: 0;">
-	<tr>
-		<td valign="middle" width="76%"><div style="text-align: left;">
-			<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/">Softmint Software Solutions</a> & My company GitHub</h5>
-		</div></td>
-		<td valign="middle" width="7.5%"><div align="center">
-			<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px auto; display: block;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40"/></a>
-		</div></td>
-		<td valign="middle" width="16.5%"><div align="center">
-			<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px auto; display: block;" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40"/></a>
-		</div></td>
-	</tr>
 </table>
- 
 
-<h5>Reach me via Linkedin : <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
+- I'm currently working as an intern software engineer at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my working &nbsp;[<img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
+- Reach me via Linkedin : <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
+	
 
 ---
 
@@ -93,30 +78,12 @@
   </picture>
 </div>
 
----
-
-<h3 align="start">Top Contributed Repository :</h3><br>
-
-<div align="center">
-  <table style="line-height: 1.5;">
-    <tr>
-      <td valign="top" width="63%" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub contributor stats">
-      </td>
-      <td valign="middle" width="37%" style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub top languages stats" style="display: inline-block; vertical-align: middle;">
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
-<h3 align="left">GitHub Trophies :</h3><br>
+<h3 align="left">My Latest GitHub Metrics :</h3><br>
 
-<div style="text-align:center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophy" />
-</div>
+![Metrics](https://metrics.lecoq.io/aselamadusanka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 ---
