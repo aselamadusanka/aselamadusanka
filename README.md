@@ -18,7 +18,6 @@
   </div>  
 </td>
 
-	</tr></table>  
 
 
 
@@ -66,7 +65,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>   
 </div>  
 
-<br/>  
 
 ---
 
@@ -112,8 +110,6 @@
   </table>
 </div>
 
-
-
 ---
 
 <h3 align="left">GitHub Trophies :</h3><br>
@@ -125,7 +121,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me :</h3><br>
 
 <p align="left">   
 <a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aselamadusanka" height="30" width="40" /></a>  
@@ -136,7 +132,7 @@
 </p>
 
 ---
-<br>
+
 
 [![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
 
