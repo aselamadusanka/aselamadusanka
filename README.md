@@ -7,7 +7,7 @@
 	
 	- A Third-year Student of NDT In the Information Technology University of Moratuwa.
   
-	- Currently, I'm focusing on improving my skills in mobile development using Flutter.
+	- I'm focusing on improving my skills in mobile development using Flutter.
 ```
 	
 
@@ -20,7 +20,7 @@
 </table>
 
 - I'm currently working as an intern software engineer at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my working &nbsp;[<img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
-- Reach me via Linkedin : <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
+- Reach me via Linkedin :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
 	
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-<h3 align="left">My Latest GitHub Metrics :</h3><br>
+<h3 align="left">My Latest GitHub Metrics :</h3>
 
 ![Metrics](https://metrics.lecoq.io/aselamadusanka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
