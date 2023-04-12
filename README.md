@@ -22,18 +22,19 @@
 
 <table>
 	<tr>
-		<td valign="top" width="72%"><div align="start">
-<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions</a> & My company GitHub</h5></dev>
+		<td valign="center" width="75%"><div align="start">
+<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions</a> & My company GitHub :</h5></dev>
 		</td>
-		<td valign="top" width="20%"><div align="center">
-<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a></dev>
-		</td>
-		<td valign="top" width="8%"><div align="center">
+		<td valign="center" width="7%"><div align="center">
 <a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40" align="right" /></a></div>  
+		</td>
+		<td valign="center" width="18%"><div align="center">
+<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a></dev>
 		</td>
 	</tr>
 </table> 
 
+---
 
 ### Languages and Tools : <br><br>
 
