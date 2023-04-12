@@ -1,6 +1,6 @@
                                                          Hi, 👋  I’m Asela Madusanka. 
             
-<table><tr><td valign="center" width="60%">
+<table style="line-height: 0;"><tr><td valign="center" width="60%">
 
   
 	I’m interested in exploring new technologies related to software development.
@@ -21,15 +21,15 @@
 
 
 
-<table style="margin: 0 auto; width: 100%;">
+<table style="margin: 0 auto; width: 100%; line-height: 0;">
 	<tr>
-		<td valign="middle" width="76.5%"><div align="center">
+		<td valign="middle" width="76%"><div align="center">
 			<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/">Softmint Software Solutions</a> & My company GitHub</h5>
 		</div></td>
 		<td valign="middle" width="7.5%"><div align="center">
 			<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px auto; display: block;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40"/></a>
 		</div></td>
-		<td valign="middle" width="16%"><div align="center">
+		<td valign="middle" width="16.5%"><div align="center">
 			<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px auto; display: block;" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40"/></a>
 		</div></td>
 	</tr>
@@ -70,7 +70,7 @@
 
 ### Github Stats :<br><br>
 <div align="center">
-  <table style="margin: auto;">
+  <table style="margin: auto; line-height: 0;">
     <tr>
       <td valign="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
@@ -98,7 +98,7 @@
 <h3 align="start">Top Contributed Repository :</h3><br>
 
 <div align="center">
-  <table>
+  <table style="line-height: 1.5;">
     <tr>
       <td valign="top" width="63%" align="center">
         <img src="https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub contributor stats">
