@@ -1,6 +1,6 @@
                                                          Hi, 👋  I’m Asela Madusanka. 
             
-<table><tr><td valign="top" width="60%"><br>
+<table><tr><td valign="center" width="60%">
 
   
 	I’m interested in exploring new technologies related to software development.
@@ -11,28 +11,31 @@
 
 	
 
-  </td><td valign="top" width="40%">
+  </td>
+<td valign="middle" align="center" width="40%">
+  <div>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 70%; display: block; margin: 0 auto;">
+  </div>  
+</td>
 
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 70%" />
-</div>  
-</td></tr></table>  
+	</tr></table>  
 
 
 
-<table>
+<table style="margin: 0 auto; width: 100%;">
 	<tr>
-		<td valign="center" width="73%"><div align="start">
-<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/"> Softmint Software Solutions</a> & My company GitHub</h5></dev>
-		</td>
-		<td valign="center" width="8%"><div align="center">
-<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40" align="right" /></a></div>  
-		</td>
-		<td valign="center" width="19%"><div align="center">
-<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40" align="right" /></a></dev>
-		</td>
+		<td valign="middle" width="76.5%"><div align="center">
+			<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/">Softmint Software Solutions</a> & My company GitHub</h5>
+		</div></td>
+		<td valign="middle" width="7.5%"><div align="center">
+			<a href="https://github.com/asela-softmint" target="_blank"><img style="margin: 10px auto; display: block;" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-bleu.png" alt="asela-softmint" height="40"/></a>
+		</div></td>
+		<td valign="middle" width="16%"><div align="center">
+			<a href="https://v1.softmint.net/" target="_blank"><img style="margin: 10px auto; display: block;" src="https://v1.softmint.net/img/softmintlogoblack.png" alt="Softmint Software Solutions" height="40"/></a>
+		</div></td>
 	</tr>
-</table> 
+</table>
+ 
 
 <h5>Reach me via Linkedin : <a href="https://linkedin.com/in/aselamadusanka"> Asela Madusanka </a>
 
@@ -68,48 +71,57 @@
 ---
 
 ### Github Stats :<br><br>
-<table>
-  <tr><td valign="top" width="50%">
+<div align="center">
+  <table style="margin: auto;">
+    <tr>
+      <td valign="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
+      </td>
+      <td valign="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true" alt="GitHub streak stats">
+      </td>
+    </tr>
+  </table>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false) 
-
-</td><td valign="top" width="50%">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true)<br/>
-
-  </td></tr>
-</table>  
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
+	
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
 <h3 align="start">Top Contributed Repository :</h3><br>
 
-<table>
-  <tr><td valign="top" width="50%">
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="63%" align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub contributor stats">
+      </td>
+      <td valign="middle" width="37%" style="text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub top languages stats" style="display: inline-block; vertical-align: middle;">
+      </td>
+    </tr>
+  </table>
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=aselamadusanka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</td><td valign="top" width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-
-  </td></tr>
-</table> 
 
 
 ---
 
 <h3 align="left">GitHub Trophies :</h3><br>
 
-![](https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+<div style="text-align:center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub profile trophy" />
+</div>
+
 
 ---
 
