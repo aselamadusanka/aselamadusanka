@@ -23,7 +23,7 @@
 
 <table style="margin: 0 auto; width: 100%; line-height: 0;">
 	<tr>
-		<td valign="middle" width="76%"><div align="center">
+		<td valign="middle" width="76%"><div style="text-align: left;">
 			<h5> I'm currently working as an intern software engineer at <a href="https://v1.softmint.net/">Softmint Software Solutions</a> & My company GitHub</h5>
 		</div></td>
 		<td valign="middle" width="7.5%"><div align="center">
