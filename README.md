@@ -1,15 +1,14 @@
-                                                         Hi, 👋  I’m Asela Madusanka. 
+                                                         Hi, 👋  I’m Asela Madusanka...
             
 <table style="line-height: 0;"><tr><td valign="center" width="60%">
 
   ```yaml
 	- I’m interested in exploring new technologies related to software development.
 	
-	- A Third-year Student of NDT In the Information Technology University of Moratuwa.
+	- A Third-year Student : NDT In Information Technology University of Moratuwa
   
-	- I'm focusing on improving my skills in mobile development using Flutter.
-```
-	
+	- I'm focusing on improving my skills in mobile development using : Flutter
+```	
 
   </td>
 <td valign="middle" align="center" width="40%">
@@ -20,7 +19,7 @@
 </table>
 
 - I'm currently working as an <strong>Intern Software Engineer</strong> at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my working &nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
-- Reach me via Linkedin :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
+- Reach me via `Linkedin` :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
 ---
@@ -77,13 +76,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
----
-
-<h3 align="left">My Latest GitHub Metrics :</h3>
-
-![Metrics](https://metrics.lecoq.io/aselamadusanka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 ---
