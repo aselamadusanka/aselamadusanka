@@ -59,11 +59,12 @@
 <div align="center">
   <table style="margin: auto; line-height: 0;">
     <tr>
-      <td valign="center" width="50%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+      <td valign="center" width="48%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=gotham&show_icons=true" >
       </td>
-      <td valign="center" width="50%">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true" alt="GitHub streak stats">
+      <td valign="center" width="52%">
+        <a href="https://github.com/aselamadusanka/github-readme-stats">
+  	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=gotham&hide_border=true"></a>
       </td>
     </tr>
   </table>
