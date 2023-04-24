@@ -39,12 +39,15 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" height="40" /></a> &nbsp; 
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="40" /></a> &nbsp;
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" height="40" /></a> &nbsp; 
+<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="40" /></a> &nbsp;
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" height="40" /></a> &nbsp;
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40" /></a> &nbsp;
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="40" /></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" height="40" /></a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a> &nbsp;
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a> &nbsp;
+<a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="IOS" height="40" /></a> &nbsp;
+<a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/880px-Android_logo_2019_%28stacked%29.svg.png" alt="Android" height="40" /></a> &nbsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" /></a> &nbsp;   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>   
 </div>  
@@ -57,10 +60,10 @@
   <table style="margin: auto; line-height: 0;">
     <tr>
       <td valign="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
       </td>
       <td valign="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true" alt="GitHub streak stats">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true" alt="GitHub streak stats">
       </td>
     </tr>
   </table>
@@ -88,7 +91,7 @@
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="35" width="48" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="35" width="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
