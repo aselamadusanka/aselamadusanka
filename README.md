@@ -57,7 +57,7 @@
   <table style="margin: auto; line-height: 0;">
     <tr>
       <td valign="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
       </td>
       <td valign="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=dark&hide_border=true" alt="GitHub streak stats">
@@ -87,7 +87,10 @@
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="__asela_" height="35" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="50" /></a>  
+<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="35" width="48" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
