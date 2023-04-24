@@ -1,6 +1,6 @@
                                                          Hi, 👋  I’m Asela Madusanka...
             
-<table style="line-height: 0;"><tr><td valign="center" width="60%">
+<table style="line-height: 0;"><tr><td valign="center" width="80%">
 
   ```yaml
 	- I’m interested in exploring new technologies related to software development.
@@ -11,9 +11,9 @@
 ```	
 
   </td>
-<td valign="middle" align="center" width="40%">
+<td valign="middle" align="center" width="20%">
   <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 70%; display: block; margin: 0 auto;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 90%; display: block; margin: 0 auto;">
   </div>  
 </td>
 </table>
