@@ -53,7 +53,7 @@
 </div>  
 
 
----
+<!-- ---
 
 ### Github Stats :<br><br>
 <div align="center">
@@ -68,7 +68,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 
 ---
