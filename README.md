@@ -22,7 +22,7 @@
 - Reach me via &nbsp;[<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>](https://linkedin.com/in/aselamadusanka)&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
----
+##
 
 ### Languages and Tools : <br><br>
 
@@ -71,18 +71,7 @@
 </div> -->
 
 
----
-	
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-
----
+##
 
 <h3 align="left">Connect with me :</h3><br>
 
@@ -97,5 +86,15 @@
 <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
----
+##
+	
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+##
 <br>[![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
