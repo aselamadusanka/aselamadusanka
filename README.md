@@ -18,7 +18,7 @@
 </td>
 </table>
 
-- I'm currently working as an <strong>Intern Software Engineer</strong> at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; `working` &nbsp;&nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
+- I'm currently working as an <strong>Intern Software Engineer</strong> at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; `working` &nbsp;&nbsp;[<img src="https://cdn0.iconfinder.com/data/icons/social-life/512/github-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
 - Reach me via &nbsp;[<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>](https://linkedin.com/in/aselamadusanka)&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
@@ -76,14 +76,14 @@
 <h3 align="left">Connect with me :</h3><br>
 
 <p align="left">   
-<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="__asela_" height="35" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/1024px-2021_Facebook_icon.svg.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="35" width="45" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/linkedin-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/twitter-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/facebook-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/instagram-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/youtube-1-512.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/whatsapp-512.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/telegram-512.png" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="[mailto:asela1madusanka@gmail.com](https://goo.gl/maps/9nAGG86HGBQDWtTk9)" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ##
