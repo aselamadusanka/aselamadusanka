@@ -73,8 +73,8 @@
 - ###### Languages and Tools : <br>
 
 
-<div align="center">
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
+<div align="start">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a> &nbsp;
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" height="30" /></a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="30" /></a> &nbsp;
@@ -122,7 +122,7 @@
 - ###### Connect with me :<br>
 
 <p align="start">   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__linked_in_-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__linked_in_-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__twitter__2_-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__facebook_-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__instagram_-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
