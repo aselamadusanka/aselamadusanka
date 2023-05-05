@@ -18,11 +18,11 @@
 </td>
 </table>
 
-- ##### I'm currently working as an `Intern Software Engineer` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; `working` &nbsp;&nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
-- ##### Reach me via &nbsp;[<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>](https://linkedin.com/in/aselamadusanka)&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
+- ###### I'm currently working as an `Intern Software Engineer` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; `working` &nbsp;&nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
+- ###### Reach me via &nbsp;[<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>](https://linkedin.com/in/aselamadusanka)&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
-<table style="line-height: 0;"><tr><td valign="center" width="75%">
+<!-- <table style="line-height: 0;"><tr><td valign="center" width="75%">
 
 #### Languages and Tools : <br>
 
@@ -67,9 +67,10 @@
 <a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/hangouts-512.png" alt="Hangouts" height="35" width="35" /></a>
 </div>  
 </td>
-</table>
+</table> -->
+##
 
-<!-- #### Languages and Tools : <br>
+- ###### Languages and Tools : <br>
 
 
 <div align="center">
@@ -91,11 +92,11 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" height="30" /></a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a> &nbsp;	
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /></a>&nbsp;
-<a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="IOS" height="30" /></a> &nbsp;
+<!-- <a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="IOS" height="30" /></a> &nbsp;
 <a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/880px-Android_logo_2019_%28stacked%29.svg.png" alt="Android" height="30" /></a> &nbsp;
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="30" /></a> &nbsp;
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="30" /></a> &nbsp; -->
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>   
-</div>   -->
+</div>  
 
 
 <!-- ---
@@ -116,12 +117,12 @@
 </div> -->
 
 
-<!-- ##
+##
 
-#### Connect with me :<br>
+- ###### Connect with me :<br>
 
-<p align="center">   
-<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/linkedin-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="start">   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/linkedin-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/twitter-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/facebook-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/instagram-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -130,7 +131,9 @@
 <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/telegram-512.png" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/hangouts-512.png" alt="Hangouts" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
+</p>
+
+##
 
 <!-- ##
 	
