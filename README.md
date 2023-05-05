@@ -18,7 +18,7 @@
 </td>
 </table>
 
-- ###### I'm currently working as an `Intern Software Engineer` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; `working` &nbsp;&nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
+- ###### I'm currently working as an ` Intern Software Engineer ` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; ` working ` &nbsp;&nbsp;[<img src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
 - ###### Reach me via &nbsp;<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
 	
 
