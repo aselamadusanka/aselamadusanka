@@ -7,7 +7,7 @@
 	
 	- A Third-year Student : NDT In Information Technology University of Moratuwa
   
-	- I'm focusing on improving my skills in mobile development using : Flutter
+<!-- 	- I'm focusing on improving my skills in mobile development using : Flutter -->
 ```	
 
   </td>
