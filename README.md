@@ -121,13 +121,14 @@
 
 <p align="start">   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__linked_in_-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__whatsapp_-512.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/telegram-512.png" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__twitter__2_-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__google_-512.png" alt="Hangouts" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__facebook_-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__instagram_-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__youtube_-512.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__whatsapp_-512.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/telegram-512.png" alt="Telegram" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__google_-512.png" alt="Hangouts" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 <!-- <a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
