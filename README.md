@@ -68,8 +68,7 @@
 </table> -->
 ##
 
-- ###### Languages and Tools : <br>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=+Languages+and+Tools+%3A" alt="Typing SVG" /></a>
 
 <div align="start">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
@@ -117,7 +116,7 @@
 
 ##
 
-- ###### Connect with me :<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
 
 <p align="start">   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__linked_in_-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
