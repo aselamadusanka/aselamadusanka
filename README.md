@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=2000&center=true&vCenter=true&width=900&lines=Hi%2C+%F0%9F%91%8B++I%E2%80%99m+Asela+Madusanka+.+.+.;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Student+at+University+of+Moratuwa+.+.+.;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Software+Engineer+.+.+.;%F0%9F%93%B1+Mobile+App+Developer+.+.+." alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=600&size=14&pause=2000&center=true&vCenter=true&width=900&lines=Hi%2C+%F0%9F%91%8B++I%E2%80%99m+Asela+Madusanka+.+.+.;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Student+at+University+of+Moratuwa+.+.+.;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Software+Engineer+.+.+.;%F0%9F%93%B1+Mobile+App+Developer+.+.+." alt="Typing SVG" /></a>
 
 <table style="line-height: 0;"><tr><td valign="center" width="80%">
 
@@ -16,10 +16,11 @@
 </td>
 </table>
 
-- ###### I'm currently working as an ` Intern Software Engineer ` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; In company my&nbsp; ` working ` &nbsp;&nbsp;[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__github_-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint)
-- ###### Reach me via &nbsp;<img src="https://seeklogo.com/images/L/linkedin-logo-920846F1F7-seeklogo.com.png" height="20em" align="center" alt="aselamadusanka" title="aselamadusanka"/>&nbsp; :&nbsp; <a href="https://linkedin.com/in/aselamadusanka"> <strong>Asela Madusanka</strong> </a>
-	
+<!-- - ###### I'm currently working as an ` Intern Software Engineer ` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; in company my&nbsp; ` working ` &nbsp;&nbsp;[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__github_-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint) -->
 
+<a href="https://v1.softmint.net/"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=I'm+currently+working+as+an+Intern+Software+Engineer+at++Softmint+Software+Solutions+(PVT)+Ltd" alt="Typing SVG" /></a>
+<a href="https://github.com/asela-softmint"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=In+company+my+working+GitHub+account++%3A++asela-softmint" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/aselamadusanka/"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=Reach+me+via+LinkedIn++%3A++Asela+Madusanka" alt="Typing SVG" /></a>	
 <!-- <table style="line-height: 0;"><tr><td valign="center" width="75%">
 
 #### Languages and Tools : <br>
@@ -67,8 +68,7 @@
 </td>
 </table> -->
 ##
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=+Languages+and+Tools+%3A" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=+Languages+and+Tools+%3A" alt="Typing SVG" /></a>
 
 <div align="start">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
@@ -116,7 +116,7 @@
 
 ##
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
 
 <p align="start">   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__linked_in_-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
