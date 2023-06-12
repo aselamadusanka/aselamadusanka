@@ -18,9 +18,9 @@
 
 <!-- - ###### I'm currently working as an ` Intern Software Engineer ` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; in company my&nbsp; ` working ` &nbsp;&nbsp;[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__github_-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint) -->
 
-<a href="https://v1.softmint.net/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=I'm+currently+working+as+an+Intern+Software+Engineer+at++Softmint+Software+Solutions+(PVT)+Ltd" alt="Typing SVG" /></a>
+<!-- <a href="https://v1.softmint.net/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=I'm+currently+working+as+an+Intern+Software+Engineer+at++Softmint+Software+Solutions+(PVT)+Ltd" alt="Typing SVG" /></a>
 <a href="https://github.com/asela-softmint" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=In+company+my+working+GitHub+account++%3A++asela-softmint" alt="Typing SVG" /></a>
-<a href="https://www.linkedin.com/in/aselamadusanka/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=&nbsp;&nbsp;Reach+me+via+LinkedIn++%3A++Asela+Madusanka" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/aselamadusanka/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=&nbsp;&nbsp;Reach+me+via+LinkedIn++%3A++Asela+Madusanka" alt="Typing SVG" /></a> -->
 ##
 <!-- <table style="line-height: 0;"><tr><td valign="center" width="75%">
 
