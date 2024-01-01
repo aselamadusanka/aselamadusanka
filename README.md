@@ -30,7 +30,6 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a> &nbsp;
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" height="30" /></a> &nbsp;
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="WordPress" height="30" /></a> &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="30" /></a> &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="30" /></a> &nbsp;
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/uploads/php/php_PNG29.png" alt="PHP" height="30" /></a> &nbsp;
