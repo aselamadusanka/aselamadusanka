@@ -131,7 +131,6 @@
 <!-- <a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
-##
 
 <!-- ##
 	
@@ -143,4 +142,3 @@
   </picture>
 </div> -->
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=aselamadusanka&icon=0&color=0)](https://visitcount.itsvg.in)
