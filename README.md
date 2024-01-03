@@ -131,6 +131,14 @@
 <!-- <a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
+##
+
+<a href="" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=Personal+Portfolio+%3A" alt="Typing SVG" /></a>
+
+<p align="start">   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aselamadusanka.me/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/internet-12/256/02-256.png" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 <!-- ##
 	
