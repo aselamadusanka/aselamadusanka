@@ -11,9 +11,9 @@
   </td>
 <td valign="middle" align="center" width="20%">
   <div>
-    <a href="https://aselamadusanka.me/">
+    <a href="https://your-link-here.com" target="_blank">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 80%; display: block; margin: 0 auto;">
-</a>
+    </a>
   </div>  
 </td>
 </table>
@@ -129,7 +129,7 @@
 <a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__facebook_-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__instagram_-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__youtube_-512.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aselamadusanka.me/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/internet-12/256/02-256.png" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://aselamadusanka.me/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/internet-12/256/02-256.png" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <!-- <a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/periscope-512.png" alt="Google Map" height="35" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
