@@ -11,7 +11,9 @@
   </td>
 <td valign="middle" align="center" width="20%">
   <div>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 80%; display: block; margin: 0 auto;">
+    <a href="https://aselamadusanka.me/">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 80%; display: block; margin: 0 auto;">
+</a>
   </div>  
 </td>
 </table>
