@@ -124,7 +124,7 @@
 
 <p align="start">   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="aselamadusanka" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/+94769935272" target="blank"><img align="center" src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" alt="WhatsApp" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/+94769935272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1024px-WhatsApp.svg.png" alt="WhatsApp" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="__asela_" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Hangouts" height="30" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
