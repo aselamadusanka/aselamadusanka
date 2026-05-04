@@ -1,149 +1,149 @@
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=600&size=14&pause=2000&center=true&vCenter=true&width=900&lines=Hi%2C+%F0%9F%91%8B++I%E2%80%99m+Asela+Madusanka+.+.+.;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Student+at+University+of+Moratuwa+.+.+.;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Software+Engineer+.+.+.;%F0%9F%93%B1+Mobile+App+Developer+.+.+." alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B5CAD,100:00D9FF&height=210&section=header&text=Asela%20Madusanka&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20App%20Developer&descAlignY=58&descSize=16" />
 
-<table style="line-height: 0;"><tr><td valign="center" width="80%">
-
-  ```yaml
-	- I’m interested in exploring new technologies related to software development
-	
-	- A Third-year Student : NDT In Information Technology University of Moratuwa
-```	
-
-  </td>
-<td valign="middle" align="center" width="20%">
-  <div>
-    <a href="https://aselamadusanka.me/" target="_blank">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ0Y2NkNjg3YzA2YzRiZWViZWE2M2M4YWUyYTA5ZmIwZDJiYTM0OCZjdD1z/WFZvB7VIXBgiz3oDXE/giphy.gif" style="width: 80%; display: block; margin: 0 auto;">
-    </a>
-  </div>  
-</td>
-</table>
-
-<!-- - ###### I'm currently working as an ` Intern Software Engineer ` at &nbsp; [<img src="https://v1.softmint.net/img/softmintlogoblack.png" height="30em" align="center" alt="Softmint Software Solutions" title="Softmint Software Solutions"/>](https://v1.softmint.net/)  &nbsp;&nbsp; in company my&nbsp; ` working ` &nbsp;&nbsp;[<img src="https://cdn0.iconfinder.com/data/icons/social-media-2185/512/social__media__social_media__github_-512.png" height="30em" align="center" alt="asea-softmint" title="asela-softmint"/>](https://github.com/asela-softmint) -->
-
-<!-- <a href="https://v1.softmint.net/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=I'm+currently+working+as+an+Intern+Software+Engineer+at++Softmint+Software+Solutions+(PVT)+Ltd" alt="Typing SVG" /></a>
-<a href="https://github.com/asela-softmint" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=In+company+my+working+GitHub+account++%3A++asela-softmint" alt="Typing SVG" /></a>
-<a href="https://www.linkedin.com/in/aselamadusanka/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Comme&weight=500&size=12&pause=1000&color=85F7E7&repeat=false&width=1000&height=30&lines=&nbsp;&nbsp;Reach+me+via+LinkedIn++%3A++Asela+Madusanka" alt="Typing SVG" /></a> -->
-##
-<!-- <table style="line-height: 0;"><tr><td valign="center" width="75%">
-
-#### Languages and Tools : <br>
-
-<div align="center">
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a> &nbsp;
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" height="30" /></a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="30" /></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="30" /></a> &nbsp;
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/uploads/php/php_PNG29.png" alt="PHP" height="30" /></a> &nbsp;
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="30" /></a> &nbsp;
-<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJs" height="30" /></a> &nbsp;  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" height="30" /></a> &nbsp; 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="30" /></a> &nbsp;
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" height="30" /></a> &nbsp; 
-<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="30" /></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" height="30" /></a> &nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30" /></a> &nbsp;
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="30" /></a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" height="30" /></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a> &nbsp;	
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /></a>&nbsp;
-<a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="IOS" height="30" /></a> &nbsp;
-<a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/880px-Android_logo_2019_%28stacked%29.svg.png" alt="Android" height="30" /></a> &nbsp;
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="30" /></a> &nbsp;
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>   
-</div> 
-
-  </td>
-	
-<td valign="center" width="25%">
-	  
-#### Connect with me :<br>
-<div align="center">   
-<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/linkedin-512.png" alt="aselamadusanka" height="35" width="35" /></a> &nbsp;
-<a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/twitter-512.png" alt="__asela_" height="35" width="35" /></a> &nbsp;
-<a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/facebook-512.png" alt="asela1madusanka" height="35" width="35" /></a> &nbsp;
-<a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-life/512/instagram-512.png" alt="__asela_" height="35" width="35" /></a>
-<a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/youtube-1-512.png" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="35" width="35" /></a> &nbsp;
-<a href="https://wa.me/0769935272" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/whatsapp-512.png" alt="WhatsApp" height="35" width="35" /></a> &nbsp;
-<a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/telegram-512.png" alt="Telegram" height="35" width="35" /></a> &nbsp;
-<a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-life/512/hangouts-512.png" alt="Hangouts" height="35" width="35" /></a>
-</div>  
-</td>
-</table> -->
-<a href="" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=+Languages+and+Tools+%3A" alt="Typing SVG" /></a>
-
-<div align="start">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" /></a> &nbsp;
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="30" /></a> &nbsp;
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/100px-React_Logo_SVG.svg.png" alt="Dart" height="30" /></a> &nbsp;
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-5-pack-logos-icons-3030217.png?f=webp&w=256" alt="Dart" height="30" /></a> &nbsp;
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="WordPress" height="30" /></a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="30" /></a> &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="30" /></a> &nbsp;
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="PHP" height="30" /></a> &nbsp;
-<a href="https://app.netlify.com/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" alt="react" height="30" /></a> &nbsp;
-<a href="https://nodejs.org/en" target="_blank"><img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="NodeJs" height="30" /></a> &nbsp;  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" height="30" /></a> &nbsp; 
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" height="30" /></a> &nbsp;
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" height="30" /></a> &nbsp; 
-<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://firebearstudio.com/blog/wp-content/uploads/2022/11/1A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height="30" /></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" height="30" /></a> &nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30" /></a> &nbsp;
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="30" /></a> &nbsp;
-<!-- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL" height="30" /></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a> &nbsp;	 -->
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" /></a>&nbsp;
-<!-- <a href="https://www.apple.com/ios/ios-16/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2048px-IOS_logo.svg.png" alt="IOS" height="30" /></a> &nbsp;
-<a href="https://developer.android.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/880px-Android_logo_2019_%28stacked%29.svg.png" alt="Android" height="30" /></a> &nbsp;
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="30" /></a> &nbsp; -->
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>   
-</div>  
-
-
-<!-- ---
-
-### Github Stats :<br><br>
-<div align="center">
-  <table style="margin: auto; line-height: 0;">
-    <tr>
-      <td valign="center" width="48%">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aselamadusanka&theme=gotham&show_icons=true" >
-      </td>
-      <td valign="center" width="52%">
-        <a href="https://github.com/aselamadusanka/github-readme-stats">
-  	<img src="https://github-readme-streak-stats.herokuapp.com/?user=aselamadusanka&theme=gotham&hide_border=true"></a>
-      </td>
-    </tr>
-  </table>
-</div> -->
-
-
-##
-
-<a href="" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=13&pause=1000&color=F7CA98&repeat=false&width=435&height=25&lines=Connect+with+me+%3A" alt="Typing SVG" /></a>
-
-<p align="start">   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/aselamadusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="aselamadusanka" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/+94769935272" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1024px-WhatsApp.svg.png" alt="WhatsApp" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/a_s_e_l_a_madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" alt="Telegram" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="__asela_" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="mailto: asela1madusanka@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Hangouts" height="30" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="https://fb.com/asela1madusanka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="asela1madusanka" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="__asela_" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.threads.net/@__asela_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1200px-Threads_%28app%29.svg.png" alt="__asela_" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://www.youtube.com/channel/UCj9c0uUITZ52PFNWIUoDf3w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="https://www.youtube.com/channel/ucj9c0uuitz52pfnwiuodf3w" height="30" width="35" /></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="https://goo.gl/maps/9nAGG86HGBQDWtTk9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/1200px-Google_Maps_icon_%282015-2020%29.svg.png" alt="Google Map" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://aselamadusanka.me/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-user-avatar-contact-portfolio-personal-portrait-profile-1-5182.png" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Asela+Madusanka+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+App+Developer;Flutter+%7C+React+%7C+Firebase+Developer;Building+clean%2C+modern+digital+products" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aselamadusanka&label=Profile%20Views&color=00D9FF&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=aselamadusanka&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/aselamadusanka?tab=followers">
+    <img src="https://img.shields.io/github/followers/aselamadusanka?label=Followers&style=for-the-badge&color=0B5CAD&labelColor=0D1117" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/aselamadusanka">
+    <img src="https://img.shields.io/badge/Available%20for-Collaboration-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Available for collaboration" />
+  </a>
+</p>
 
+---
 
-<!-- ##
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div> -->
+## 👨‍💻 About Me
 
+```yaml
+name: Asela Madusanka
+role: Software Engineer | Mobile App Developer
+education: Third-year NDT Information Technology Student, University of Moratuwa
+focus: Mobile apps, web applications, Firebase, and modern software development
+interests: Exploring new technologies and building useful digital products
+```
+
+- 📱 Passionate about **mobile app development** and clean user experiences  
+- 🚀 Interested in **modern software engineering, cloud tools, and scalable app development**  
+- 🎓 Studying **NDT in Information Technology** at the **University of Moratuwa**  
+- 💬 Ask me about **Flutter, Firebase, React, UI/UX, and API integration**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2600&pause=800&color=F7CA98&center=true&vCenter=true&width=650&lines=Technologies+I+work+with;Mobile+%7C+Web+%7C+Backend+%7C+Design" alt="Tech stack animated title" />
+</p>
+
+### Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### Backend, Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### CMS, Hosting & Design
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=GitHub+Analytics+%26+Contribution+Overview;Consistency+%7C+Clean+Code+%7C+Continuous+Learning" alt="GitHub analytics animated title" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aselamadusanka&theme=github_dark" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aselamadusanka&theme=github_dark" alt="GitHub stats summary" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aselamadusanka&theme=github_dark&utcOffset=5.5" alt="GitHub productive time" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aselamadusanka&theme=github_dark" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aselamadusanka&theme=github_dark" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com?user=aselamadusanka&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=00D9FF&fire=FFB000&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aselamadusanka&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=aselamadusanka&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=12&margin-h=12" alt="GitHub profile trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://aselamadusanka.me/">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aselamadusanka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:asela1madusanka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/94769935272">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/a_s_e_l_a_madusanka">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://twitter.com/__asela_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/__asela_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.threads.net/@__asela_">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=3500&pause=1000&color=F7CA98&center=true&vCenter=true&width=760&lines=Keep+learning%2C+keep+building%2C+and+create+software+that+solves+real+problems." alt="Motivation quote" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0B5CAD,100:0D1117&height=120&section=footer" />
