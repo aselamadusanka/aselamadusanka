@@ -79,16 +79,6 @@ interests: Exploring new technologies and building useful digital products
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=GitHub+Analytics;Clean%2C+compact+and+professional+overview" alt="GitHub analytics title" />
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=aselamadusanka&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&ring=00D9FF&fire=FFB000&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aselamadusanka&bg_color=0D1117&color=58A6FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</div>
-
 ---
 
 <p align="center">
